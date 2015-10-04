@@ -7,7 +7,7 @@
 
 #### Clone the app
 ```
-git clone <repository url>
+git clone https://github.com/sytac/reactjs-es6-scaffold.git
 ```
 
 #### Install
