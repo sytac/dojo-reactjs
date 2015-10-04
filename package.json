@@ -1,0 +1,37 @@
+{
+  "name": "reactjs-es6-scaffold",
+  "version": "0.1.0",
+  "description": "A scaffold for reactJS in ES6 with a full test environment and code coverage",
+  "main": "index.js",
+  "scripts": {
+    "start": "./node_modules/gulp/bin/gulp.js serve",
+    "test": "./node_modules/gulp/bin/gulp.js mocha"
+  },
+  "author": "Davide Fiorello <davide@codeflyer.com> (http://github.com/codeflyer/)",
+  "license": "ISC",
+  "devDependencies": {
+    "babel": "^5.8.23",
+    "babel-core": "^5.8.25",
+    "babelify": "^6.3.0",
+    "browserify": "^11.2.0",
+    "chai": "^3.3.0",
+    "del": "^2.0.2",
+    "gulp": "^3.9.0",
+    "gulp-commonjs-tasks": "^1.2.0",
+    "gulp-connect": "^2.2.0",
+    "gulp-css-globbing": "^0.1.8",
+    "gulp-istanbul": "^0.10.1",
+    "gulp-istanbul-enforcer": "^1.0.3",
+    "gulp-mocha-co": "^0.4.1-co.3",
+    "gulp-sass": "^2.0.4",
+    "isparta": "^3.1.0",
+    "mocha": "^2.3.3",
+    "rewire": "^2.3.4",
+    "uglifyify": "^3.0.1",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "dependencies": {
+    "react": "^0.13.3",
+    "react-router": "^1.0.0-rc1"
+  }
+}
