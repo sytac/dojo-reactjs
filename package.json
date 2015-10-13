@@ -7,7 +7,7 @@
     "start": "./node_modules/gulp/bin/gulp.js serve",
     "test": "./node_modules/gulp/bin/gulp.js mocha"
   },
-  "author": "Davide Fiorello <davide@codeflyer.com> (http://github.com/codeflyer/)",
+  "author": "Davide Fiorello <davide.fiorello@sytac.io> (http://github.com/sytac/)",
   "license": "ISC",
   "devDependencies": {
     "babel": "^5.8.23",
